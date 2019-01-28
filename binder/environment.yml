@@ -54,8 +54,6 @@ dependencies:
   -  ipython
   -  ipython-genutils
   -  ipywidgets
-  -  jaqs
-  -  jaqs-fxdayu
   -  jdcal
   -  jedi
   -  jeepney
@@ -67,13 +65,7 @@ dependencies:
   -  jupyter
   -  jupyter-client
   -  jupyter-console
-  -  jupyter-contrib-core
-  -  jupyter-contrib-nbextensions
   -  jupyter-core
-  -  jupyter-highlight-selected-word
-  -  jupyter-latex-envs
-  -  jupyter-nbextensions-configurator
-  -  jupyterhub
   -  jupyterlab
   -  jupyterlab-server
   -  Keras
@@ -87,7 +79,6 @@ dependencies:
   -  Mako
   -  Markdown
   -  MarkupSafe
-  -  matlab-kernel
   -  matplotlib
   -  metakernel
   -  mistune
@@ -181,7 +172,6 @@ dependencies:
   -  webencodings
   -  Werkzeug
   -  wheel
-  -  widgetsnbextension
   -  wordcloud
   -  wrapt
   -  wurlitzer
