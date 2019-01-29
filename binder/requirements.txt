@@ -17,6 +17,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==0.6.1
 cycler==0.10.0
+cmake==3.13.3
 cymem==2.0.2
 cytoolz==0.9.0.1
 dask==0.20.2
